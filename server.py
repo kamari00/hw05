@@ -16,6 +16,5 @@ def start_server():
 
     client_socket.close()
 
-
 if __name__ == "__main__":
     start_server()

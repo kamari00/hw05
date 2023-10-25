@@ -11,6 +11,5 @@ def start_client():
 
     client_socket.close()
 
-
 if __name__ == "__main__":
     start_client()
